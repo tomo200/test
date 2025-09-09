@@ -14,7 +14,7 @@ def cal_coinn(amout):
 
 change=input()
 ret=cal_coinn(change)
-print(f"{ret}がおつりの数")
+print(f"{ret}がおつりの数!!")
 
 
     
